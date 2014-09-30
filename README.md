@@ -1,6 +1,5 @@
-#### *titulo de prueba*
 
-- hagamos otra pueba
+##otra prueba
 
 #Practical Numerical Methods in Python
 
